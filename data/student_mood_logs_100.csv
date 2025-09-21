@@ -1,0 +1,101 @@
+timestamp,student_id,text,label
+2025-09-16T00:00:00,S001,I had a good day with friends,positive
+2025-09-06T00:00:00,S002,I feel supported and positive,positive
+2025-09-15T00:00:00,S003,I had a good day with friends,positive
+2025-09-17T00:00:00,S004,I attended my classes as usual,neutral
+2025-09-15T00:00:00,S005,Day went as expected,neutral
+2025-09-13T00:00:00,S006,I am relaxed and calm today,positive
+2025-09-18T00:00:00,S007,Just an ordinary day,neutral
+2025-09-13T00:00:00,S008,I'm overwhelmed by assignments,negative
+2025-09-12T00:00:00,S009,Just an ordinary day,neutral
+2025-09-17T00:00:00,S010,Just an ordinary day,neutral
+2025-09-18T00:00:00,S011,I attended my classes as usual,neutral
+2025-09-17T00:00:00,S012,Feeling motivated about studies,positive
+2025-09-21T00:00:00,S013,Nothing special today,neutral
+2025-09-20T00:00:00,S014,Nothing special today,neutral
+2025-09-08T00:00:00,S015,Feeling anxious lately,negative
+2025-09-06T00:00:00,S016,Feeling motivated about studies,positive
+2025-09-16T00:00:00,S017,I'm overwhelmed by assignments,negative
+2025-09-05T00:00:00,S018,"I can't sleep, too much pressure",negative
+2025-09-15T00:00:00,S019,I'm happy about my progress,positive
+2025-09-14T00:00:00,S020,Feeling anxious lately,negative
+2025-09-21T00:00:00,S021,Feeling motivated about studies,positive
+2025-09-15T00:00:00,S022,Nothing special today,neutral
+2025-09-14T00:00:00,S023,Day went as expected,neutral
+2025-09-13T00:00:00,S024,Feeling motivated about studies,positive
+2025-09-17T00:00:00,S025,I am relaxed and calm today,positive
+2025-09-11T00:00:00,S026,I'm happy about my progress,positive
+2025-09-09T00:00:00,S027,"I can't sleep, too much pressure",negative
+2025-09-20T00:00:00,S028,I am relaxed and calm today,positive
+2025-09-11T00:00:00,S029,Just an ordinary day,neutral
+2025-09-20T00:00:00,S030,I had a good day with friends,positive
+2025-09-18T00:00:00,S031,I feel supported and positive,positive
+2025-09-02T00:00:00,S032,Nothing special today,neutral
+2025-09-17T00:00:00,S033,Feeling anxious lately,negative
+2025-09-05T00:00:00,S034,I feel sad and alone,negative
+2025-09-07T00:00:00,S035,I am relaxed and calm today,positive
+2025-09-18T00:00:00,S036,Just an ordinary day,neutral
+2025-09-02T00:00:00,S037,Nothing special today,neutral
+2025-09-05T00:00:00,S038,I feel supported and positive,positive
+2025-09-02T00:00:00,S039,I'm stressed about exams,negative
+2025-09-06T00:00:00,S040,I feel supported and positive,positive
+2025-09-13T00:00:00,S041,I had a good day with friends,positive
+2025-09-06T00:00:00,S042,Day went as expected,neutral
+2025-09-16T00:00:00,S043,I'm overwhelmed by assignments,negative
+2025-09-16T00:00:00,S044,I had a good day with friends,positive
+2025-09-07T00:00:00,S045,"I can't sleep, too much pressure",negative
+2025-09-17T00:00:00,S046,I attended my classes as usual,neutral
+2025-09-11T00:00:00,S047,I'm stressed about exams,negative
+2025-09-19T00:00:00,S048,"Feeling okay, neither good nor bad",neutral
+2025-09-09T00:00:00,S049,I feel supported and positive,positive
+2025-09-21T00:00:00,S050,I'm overwhelmed by assignments,negative
+2025-09-09T00:00:00,S051,Just an ordinary day,neutral
+2025-09-18T00:00:00,S052,"I can't sleep, too much pressure",negative
+2025-09-20T00:00:00,S053,I'm happy about my progress,positive
+2025-09-17T00:00:00,S054,I'm stressed about exams,negative
+2025-09-12T00:00:00,S055,I feel supported and positive,positive
+2025-09-01T00:00:00,S056,Feeling motivated about studies,positive
+2025-09-03T00:00:00,S057,I feel supported and positive,positive
+2025-09-21T00:00:00,S058,"I can't sleep, too much pressure",negative
+2025-09-08T00:00:00,S059,I feel supported and positive,positive
+2025-09-20T00:00:00,S060,I had a good day with friends,positive
+2025-09-07T00:00:00,S061,I'm stressed about exams,negative
+2025-09-02T00:00:00,S062,Feeling motivated about studies,positive
+2025-09-20T00:00:00,S063,I'm overwhelmed by assignments,negative
+2025-09-19T00:00:00,S064,Feeling anxious lately,negative
+2025-09-09T00:00:00,S065,I am relaxed and calm today,positive
+2025-09-07T00:00:00,S066,I feel sad and alone,negative
+2025-09-02T00:00:00,S067,I am relaxed and calm today,positive
+2025-09-17T00:00:00,S068,I had a good day with friends,positive
+2025-09-14T00:00:00,S069,I feel sad and alone,negative
+2025-09-08T00:00:00,S070,"I can't sleep, too much pressure",negative
+2025-09-14T00:00:00,S071,"I can't sleep, too much pressure",negative
+2025-09-20T00:00:00,S072,I'm happy about my progress,positive
+2025-09-10T00:00:00,S073,I feel sad and alone,negative
+2025-09-01T00:00:00,S074,I feel sad and alone,negative
+2025-09-11T00:00:00,S075,Just an ordinary day,neutral
+2025-09-04T00:00:00,S076,I had a good day with friends,positive
+2025-09-08T00:00:00,S077,I'm stressed about exams,negative
+2025-09-16T00:00:00,S078,I am relaxed and calm today,positive
+2025-09-03T00:00:00,S079,Feeling motivated about studies,positive
+2025-09-12T00:00:00,S080,I'm stressed about exams,negative
+2025-09-21T00:00:00,S081,I'm happy about my progress,positive
+2025-09-11T00:00:00,S082,I feel sad and alone,negative
+2025-09-04T00:00:00,S083,I attended my classes as usual,neutral
+2025-09-16T00:00:00,S084,I'm stressed about exams,negative
+2025-09-07T00:00:00,S085,Just an ordinary day,neutral
+2025-09-01T00:00:00,S086,Nothing special today,neutral
+2025-09-13T00:00:00,S087,"Feeling okay, neither good nor bad",neutral
+2025-09-16T00:00:00,S088,I feel supported and positive,positive
+2025-09-15T00:00:00,S089,I feel supported and positive,positive
+2025-09-01T00:00:00,S090,Feeling motivated about studies,positive
+2025-09-09T00:00:00,S091,Feeling motivated about studies,positive
+2025-09-18T00:00:00,S092,I am relaxed and calm today,positive
+2025-09-07T00:00:00,S093,Feeling anxious lately,negative
+2025-09-15T00:00:00,S094,Day went as expected,neutral
+2025-09-01T00:00:00,S095,Nothing special today,neutral
+2025-09-14T00:00:00,S096,Just an ordinary day,neutral
+2025-09-21T00:00:00,S097,"I can't sleep, too much pressure",negative
+2025-09-19T00:00:00,S098,Feeling motivated about studies,positive
+2025-09-17T00:00:00,S099,Day went as expected,neutral
+2025-09-15T00:00:00,S100,I am relaxed and calm today,positive

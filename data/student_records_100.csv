@@ -1,0 +1,101 @@
+student_id,name,age,gender,grade,stress_label,text,timestamp
+S001,Taylor Mehta,17,male,5.14,neutral,I have a lot to do but managing okay.,2025-09-24T11:43:00
+S002,Casey Nair,23,male,9.97,negative,I feel hopeless about keeping up with workload.,2025-09-15T20:58:00
+S003,Jordan Mitra,19,male,6.89,neutral,"Studying today, average stress level.",2025-09-05T09:10:00
+S004,Jordan Khanna,23,male,7.81,neutral,"Studying today, average stress level.",2025-09-24T23:06:00
+S005,Skyler Roy,21,female,9.22,negative,I feel hopeless about keeping up with workload.,2025-09-11T09:21:00
+S006,Jordan Khanna,16,female,7.8,negative,"I can't focus on studying, feeling anxious.",2025-09-17T20:13:00
+S007,Jamie Patel,17,male,5.25,neutral,"Studying today, average stress level.",2025-09-14T23:19:00
+S008,Drew Roy,20,female,9.56,neutral,Busy but coping with the schedule.,2025-09-04T10:06:00
+S009,Skyler Khan,16,non-binary,5.32,positive,"I did well on my last assignment, relieved.",2025-09-13T11:12:00
+S010,Blake Sharma,19,female,9.07,neutral,Feeling okay — a bit tired.,2025-09-11T20:22:00
+S011,Avery Chowdhury,24,male,8.37,negative,I feel hopeless about keeping up with workload.,2025-09-03T22:36:00
+S012,Blake Patel,20,male,8.26,negative,I feel hopeless about keeping up with workload.,2025-09-18T13:28:00
+S013,Skyler Singh,19,non-binary,8.07,neutral,"Studying today, average stress level.",2025-09-20T06:49:00
+S014,Jordan Gupta,18,non-binary,6.35,positive,"I did well on my last assignment, relieved.",2025-09-10T15:52:00
+S015,Quinn Das,19,non-binary,6.35,neutral,Busy but coping with the schedule.,2025-09-22T12:25:00
+S016,Rowan Malhotra,17,male,8.84,negative,"I can't focus on studying, feeling anxious.",2025-09-01T17:12:00
+S017,Casey Das,19,female,7.37,negative,"So stressed about my grades, can't sleep.",2025-09-07T20:11:00
+S018,Quinn Sharma,19,male,8.23,negative,I'm overwhelmed with exams and assignments.,2025-09-21T03:50:00
+S019,Parker Patel,22,non-binary,9.35,negative,"I can't focus on studying, feeling anxious.",2025-09-14T21:12:00
+S020,Cameron Saxena,20,female,6.52,neutral,I have a lot to do but managing okay.,2025-09-08T01:52:00
+S021,Jordan Roy,20,male,9.39,positive,Relaxed after a good study session.,2025-09-23T16:41:00
+S022,Sam Mehta,24,female,6.83,negative,I'm overwhelmed with exams and assignments.,2025-09-09T19:39:00
+S023,Reese Nair,20,male,6.82,neutral,"Studying today, average stress level.",2025-09-08T20:52:00
+S024,Casey Mitra,20,non-binary,6.53,negative,I feel hopeless about keeping up with workload.,2025-09-20T17:07:00
+S025,Sam Khanna,22,non-binary,6.18,negative,I feel hopeless about keeping up with workload.,2025-09-16T23:41:00
+S026,Parker Chowdhury,24,female,7.7,negative,I feel hopeless about keeping up with workload.,2025-09-10T18:53:00
+S027,Rowan Mitra,18,non-binary,4.83,neutral,Feeling okay — a bit tired.,2025-09-02T06:21:00
+S028,Skyler Iyer,20,male,8.01,negative,I feel hopeless about keeping up with workload.,2025-09-10T08:58:00
+S029,Casey Singh,17,female,8.37,neutral,I have a lot to do but managing okay.,2025-09-07T16:24:00
+S030,Taylor Verma,24,female,4.4,neutral,Busy but coping with the schedule.,2025-09-26T23:53:00
+S031,Taylor Khanna,19,male,4.21,negative,"So stressed about my grades, can't sleep.",2025-09-22T17:21:00
+S032,Jamie Das,20,female,5.82,positive,Relaxed after a good study session.,2025-09-08T09:24:00
+S033,Skyler Verma,18,male,4.57,positive,Feeling prepared for the upcoming test.,2025-09-17T18:31:00
+S034,Harper Mehta,24,male,8.15,neutral,"Studying today, average stress level.",2025-09-12T06:15:00
+S035,Morgan Singh,18,non-binary,4.62,neutral,"Studying today, average stress level.",2025-09-19T01:45:00
+S036,Casey Mitra,16,non-binary,9.9,neutral,I have a lot to do but managing okay.,2025-09-17T09:52:00
+S037,Avery Malhotra,24,non-binary,4.94,positive,Feeling calm after planning my study schedule.,2025-09-12T19:07:00
+S038,Cameron Kumar,24,male,9.21,negative,I feel hopeless about keeping up with workload.,2025-09-05T09:58:00
+S039,Jamie Das,23,non-binary,9.32,positive,Feeling calm after planning my study schedule.,2025-09-23T10:47:00
+S040,Devin Mitra,22,non-binary,9.03,neutral,Feeling okay — a bit tired.,2025-09-26T05:06:00
+S041,Rowan Malhotra,17,female,4.31,negative,I feel hopeless about keeping up with workload.,2025-09-28T03:32:00
+S042,Drew Chowdhury,22,male,9.25,neutral,Feeling okay — a bit tired.,2025-09-10T10:59:00
+S043,Jordan Patel,18,female,9.96,negative,I feel hopeless about keeping up with workload.,2025-09-05T17:58:00
+S044,Drew Rao,17,non-binary,9.74,neutral,Feeling okay — a bit tired.,2025-09-13T14:15:00
+S045,Alex Singh,20,male,9.93,neutral,"Studying today, average stress level.",2025-09-30T04:53:00
+S046,Sam Iyer,17,non-binary,9.44,negative,I feel hopeless about keeping up with workload.,2025-09-06T13:23:00
+S047,Jordan Khanna,22,male,7.97,negative,"So stressed about my grades, can't sleep.",2025-09-24T12:43:00
+S048,Devin Saxena,19,female,5.29,positive,"I did well on my last assignment, relieved.",2025-09-28T08:51:00
+S049,Drew Patel,21,non-binary,5.77,negative,"I can't focus on studying, feeling anxious.",2025-09-13T23:04:00
+S050,Harper Das,18,non-binary,6.1,positive,"I did well on my last assignment, relieved.",2025-09-24T16:43:00
+S051,Drew Sharma,24,non-binary,9.71,negative,"So stressed about my grades, can't sleep.",2025-09-20T03:52:00
+S052,Alex Nair,22,non-binary,5.56,negative,I'm overwhelmed with exams and assignments.,2025-09-15T16:08:00
+S053,Blake Verma,22,male,5.45,negative,"I can't focus on studying, feeling anxious.",2025-09-12T23:13:00
+S054,Reese Malhotra,18,female,9.69,neutral,Busy but coping with the schedule.,2025-09-12T13:21:00
+S055,Riley Singh,16,non-binary,8.57,neutral,Feeling okay — a bit tired.,2025-09-11T14:46:00
+S056,Skyler Mitra,16,non-binary,4.87,neutral,I have a lot to do but managing okay.,2025-09-08T21:01:00
+S057,Taylor Das,19,non-binary,7.36,negative,"So stressed about my grades, can't sleep.",2025-09-13T07:04:00
+S058,Taylor Bose,20,female,5.14,positive,Relaxed after a good study session.,2025-09-26T00:26:00
+S059,Riley Kumar,21,male,6.75,negative,I'm overwhelmed with exams and assignments.,2025-09-08T10:35:00
+S060,Jamie Joshi,18,male,8.61,neutral,Busy but coping with the schedule.,2025-09-25T06:18:00
+S061,Alex Khan,19,non-binary,5.88,positive,Feeling calm after planning my study schedule.,2025-09-08T17:05:00
+S062,Jordan Singh,16,non-binary,9.79,neutral,"Studying today, average stress level.",2025-09-28T17:58:00
+S063,Sam Mehta,19,non-binary,8.22,neutral,Busy but coping with the schedule.,2025-09-11T21:21:00
+S064,Taylor Mitra,24,non-binary,9.66,negative,I'm overwhelmed with exams and assignments.,2025-09-02T12:17:00
+S065,Skyler Mehta,20,female,6.92,neutral,Busy but coping with the schedule.,2025-09-29T01:45:00
+S066,Taylor Joshi,19,female,8.17,neutral,I have a lot to do but managing okay.,2025-09-07T20:06:00
+S067,Avery Iyer,16,non-binary,7.93,neutral,Busy but coping with the schedule.,2025-09-14T18:51:00
+S068,Reese Bose,21,female,6.95,negative,"I can't focus on studying, feeling anxious.",2025-09-22T13:33:00
+S069,Casey Singh,23,male,4.09,negative,"So stressed about my grades, can't sleep.",2025-09-12T19:04:00
+S070,Morgan Mehta,20,non-binary,6.23,negative,"So stressed about my grades, can't sleep.",2025-09-28T06:45:00
+S071,Harper Bose,20,male,5.4,negative,I feel hopeless about keeping up with workload.,2025-09-06T18:01:00
+S072,Sam Joshi,21,female,7.03,positive,"I did well on my last assignment, relieved.",2025-09-21T21:19:00
+S073,Parker Khanna,20,male,7.28,negative,I'm overwhelmed with exams and assignments.,2025-09-15T11:09:00
+S074,Devin Mitra,19,non-binary,8.85,negative,I feel hopeless about keeping up with workload.,2025-09-04T09:27:00
+S075,Skyler Das,22,non-binary,9.43,negative,I'm overwhelmed with exams and assignments.,2025-09-11T10:36:00
+S076,Sam Verma,23,female,4.26,neutral,Feeling okay — a bit tired.,2025-09-23T16:33:00
+S077,Quinn Patel,24,male,6.11,positive,Relaxed after a good study session.,2025-09-17T03:54:00
+S078,Alex Saxena,18,male,4.64,negative,I'm overwhelmed with exams and assignments.,2025-09-26T20:22:00
+S079,Rowan Iyer,19,female,5.69,neutral,"Studying today, average stress level.",2025-09-15T14:10:00
+S080,Harper Kumar,20,female,7.6,negative,"So stressed about my grades, can't sleep.",2025-09-24T14:54:00
+S081,Sam Malhotra,16,male,6.26,positive,Feeling calm after planning my study schedule.,2025-09-26T09:09:00
+S082,Morgan Khan,24,female,8.74,negative,I feel hopeless about keeping up with workload.,2025-09-08T23:51:00
+S083,Kai Chowdhury,22,female,6.88,negative,I feel hopeless about keeping up with workload.,2025-09-09T22:02:00
+S084,Devin Sharma,19,male,6.05,neutral,Feeling okay — a bit tired.,2025-09-23T06:22:00
+S085,Casey Bose,23,non-binary,7.08,negative,I'm overwhelmed with exams and assignments.,2025-09-18T10:55:00
+S086,Skyler Malhotra,22,non-binary,5.76,neutral,Busy but coping with the schedule.,2025-09-11T19:22:00
+S087,Sam Iyer,20,non-binary,9.15,positive,"I did well on my last assignment, relieved.",2025-09-04T16:05:00
+S088,Avery Patel,23,female,6.7,positive,Feeling calm after planning my study schedule.,2025-09-22T04:40:00
+S089,Avery Saxena,19,male,9.69,positive,Feeling prepared for the upcoming test.,2025-09-19T09:03:00
+S090,Skyler Singh,16,non-binary,4.75,negative,"I can't focus on studying, feeling anxious.",2025-09-05T15:47:00
+S091,Cameron Saxena,21,female,8.48,neutral,I have a lot to do but managing okay.,2025-09-05T02:59:00
+S092,Casey Mehta,17,non-binary,8.66,neutral,Feeling okay — a bit tired.,2025-09-25T08:45:00
+S093,Skyler Patel,22,male,7.05,positive,Feeling calm after planning my study schedule.,2025-09-27T20:32:00
+S094,Casey Khan,24,female,7.5,negative,I'm overwhelmed with exams and assignments.,2025-09-27T23:11:00
+S095,Sam Saxena,17,non-binary,5.36,negative,I'm overwhelmed with exams and assignments.,2025-09-19T18:42:00
+S096,Kai Mehta,22,non-binary,8.37,positive,Relaxed after a good study session.,2025-09-25T16:00:00
+S097,Skyler Mehta,24,male,7.79,neutral,I have a lot to do but managing okay.,2025-09-14T17:37:00
+S098,Reese Malhotra,19,male,7.98,negative,I'm overwhelmed with exams and assignments.,2025-09-04T23:36:00
+S099,Drew Rao,21,non-binary,4.02,neutral,"Studying today, average stress level.",2025-09-22T16:04:00
+S100,Rowan Iyer,21,male,4.58,neutral,I have a lot to do but managing okay.,2025-09-15T11:33:00
